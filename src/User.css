@@ -1,0 +1,30 @@
+
+.buttons{
+  display: flex;
+  justify-content: center;
+ 
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.block{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width:1200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px 100px 0px 100px;
+    padding: 10px;
+}
+
