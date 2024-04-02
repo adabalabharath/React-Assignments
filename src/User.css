@@ -2,20 +2,22 @@
 .buttons{
   display: flex;
   justify-content: center;
- 
-  
+
 }
 
 
+.buttons button{
+     background-color: sandybrown;
+}
 
+#button{
+    background-color: sandybrown;
+}
 
-
-
-
-
-
-
-
+#button:hover{
+    background: olivedrab;
+    color: white;
+}
 
 .block{
     display: flex;
@@ -28,3 +30,6 @@
     padding: 10px;
 }
 
+.block:hover{
+    box-shadow: 3px 3px 3px black;
+}

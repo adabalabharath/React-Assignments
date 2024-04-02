@@ -9,7 +9,7 @@ const UserDetails = (props) => {
             {props.users.map((e) => {
                 return (
                     <div key={e.id} className='block'>
-                        <img src={e.avatar} style={{ width: '70px', borderRadius: "50px" }} alt="Avatar" />
+                        <img src={e.avatar} style={{ width: '60px',height:'60px', borderRadius: "50px" }} alt="Avatar" />
                         <div>
                             <span style={{ fontWeight: 'bold' }}>{e.first_name}</span> &nbsp;
                             <span style={{ fontWeight: 'bold' }}>{e.last_name}</span>
@@ -27,7 +27,7 @@ const UserDetails = (props) => {
                             <span style={{ fontWeight: 'bold' }}>{e.posts}</span> &nbsp;
                             <p>Posts</p>
                         </div>
-                        <button id='button' style={{ backgroundColor: "sandybrown" ,width:'100px'}}>{e.is_following ? "unfollow" : "follow"}</button>
+                        <button id='button' style={{width:'100px'}}>{e.is_following ? "unfollow" : "follow"}</button>
                     </div>
                 );
             })}
