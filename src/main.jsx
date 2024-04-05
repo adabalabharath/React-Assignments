@@ -6,8 +6,8 @@ import TodoList from './Components/TodoList.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
  <>
-    {/* <App/> */}
-    <TodoList />
+    <App/>
+    {/* <TodoList /> */}
   </>
   
 )
