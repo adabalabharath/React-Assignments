@@ -10,9 +10,11 @@
     width:1200px;
     border: 1px solid black;
     border-radius: 10px;
-    margin: 10px 100px 0px 100px;
+    margin-top: 5px;
+    margin-bottom: 10px;
     padding: 10px;
 }
+
 
 /* Add hover styles for the button */
 #button {
@@ -28,3 +30,6 @@
   color:black
 }
 
+.block:hover{
+  box-shadow: 5px 5px black;
+}
