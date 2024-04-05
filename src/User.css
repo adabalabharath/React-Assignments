@@ -1,23 +1,7 @@
-
-.buttons{
-  display: flex;
-  justify-content: center;
-
+#button:hover {
+  background-color: black;
 }
 
-
-.buttons button{
-     background-color: sandybrown;
-}
-
-#button{
-    background-color: sandybrown;
-}
-
-#button:hover{
-    background: olivedrab;
-    color: white;
-}
 
 .block{
     display: flex;
@@ -30,6 +14,17 @@
     padding: 10px;
 }
 
-.block:hover{
-    box-shadow: 3px 3px 3px black;
+/* Add hover styles for the button */
+#button {
+  background-color: green;
+  color: white;
+  border: none;
+ 
+  cursor: pointer;
 }
+
+#button:hover {
+  background-color: yellow;
+  color:black
+}
+

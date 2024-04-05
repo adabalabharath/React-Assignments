@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import UserDetails from './UserDetails';
+import UserDetails from './Components/UserDetails';
 
 function App() {
   const [user,setUser] = useState([]);
@@ -33,9 +33,9 @@ const asc = () => {
 
   return (
     <>
-	 <div className='buttons'>
-                <button style={{ backgroundColor: "burlywood", margin: "15px" }} onClick={asc}>Sort by Asc</button>
-                <button style={{ backgroundColor: "burlywood", margin: "15px" }} onClick={des}>Sort by Des</button>
+	 <div className='buttons' >
+                <button  onClick={asc}>Sort by Asc</button>
+                <button  onClick={des}>Sort by Des</button>
     </div>
       <UserDetails users={user}/>
     </>
