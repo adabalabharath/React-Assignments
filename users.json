@@ -1,0 +1,102 @@
+[
+  {
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "john.doe@example.com",
+    "street": "123 Main St",
+    "city": "New York",
+    "zipcode": "10001",
+    "company": "ABC Inc.",
+    "website": "https://www.abcinc.com"
+  },
+  {
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "email": "jane.smith@example.com",
+    "street": "456 Elm St",
+    "city": "Los Angeles",
+    "zipcode": "90001",
+    "company": "XYZ Corp.",
+    "website": "https://www.xyzcorp.com"
+  },
+  {
+    "name": "Michael Johnson",
+    "username": "michaeljohnson",
+    "email": "michael.johnson@example.com",
+    "street": "789 Oak St",
+    "city": "Chicago",
+    "zipcode": "60601",
+    "company": "DEF Ltd.",
+    "website": "https://www.defltd.com"
+  },
+  {
+    "name": "Emily Brown",
+    "username": "emilybrown",
+    "email": "emily.brown@example.com",
+    "street": "101 Pine St",
+    "city": "Houston",
+    "zipcode": "77001",
+    "company": "GHI Co.",
+    "website": "https://www.ghico.com"
+  },
+  {
+    "name": "David Wilson",
+    "username": "davidwilson",
+    "email": "david.wilson@example.com",
+    "street": "222 Maple St",
+    "city": "Miami",
+    "zipcode": "33101",
+    "company": "JKL Enterprises",
+    "website": "https://www.jklenterprises.com"
+  },
+  {
+    "name": "Sarah Taylor",
+    "username": "sarahtaylor",
+    "email": "sarah.taylor@example.com",
+    "street": "333 Oak St",
+    "city": "Seattle",
+    "zipcode": "98101",
+    "company": "MNO Solutions",
+    "website": "https://www.mnosolutions.com"
+  },
+  {
+    "name": "Matthew Martinez",
+    "username": "matthewmartinez",
+    "email": "matthew.martinez@example.com",
+    "street": "444 Cedar St",
+    "city": "San Francisco",
+    "zipcode": "94101",
+    "company": "PQR Industries",
+    "website": "https://www.pqrindustries.com"
+  },
+  {
+    "name": "Jessica Anderson",
+    "username": "jessicaanderson",
+    "email": "jessica.anderson@example.com",
+    "street": "555 Elm St",
+    "city": "Boston",
+    "zipcode": "02101",
+    "company": "STU Corporation",
+    "website": "https://www.stucorporation.com"
+  },
+  {
+    "name": "Christopher Lee",
+    "username": "christopherlee",
+    "email": "christopher.lee@example.com",
+    "street": "666 Oak St",
+    "city": "Dallas",
+    "zipcode": "75201",
+    "company": "VWX Enterprises",
+    "website": "https://www.vwxenterprises.com"
+  },
+  {
+    "name": "Amanda Clark",
+    "username": "amandaclark",
+    "email": "amanda.clark@example.com",
+    "street": "777 Pine St",
+    "city": "Philadelphia",
+    "zipcode": "19101",
+    "company": "YZ Company",
+    "website": "https://www.yzcompany.com"
+  }
+]

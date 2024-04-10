@@ -1,0 +1,41 @@
+.result {
+  
+}
+.input{
+  margin: 5px; 
+  border: none;
+  height: 40px;
+  width: 590px;
+ 
+}
+
+textarea:focus, input:focus{
+outline: none;
+}
+
+.suggestion {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.suggestion:hover {
+  background-color: #f0f0f0; /* Optional: Add hover effect */
+}
+div .container{
+  border:1px solid black;
+  border-radius:5px;
+  
+ 
+}
+
+ul{
+  margin: 0px;
+  padding: 0px;
+}
+li{
+    list-style: none;
+}
+
+input .input{
+
+}
