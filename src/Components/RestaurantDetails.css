@@ -1,0 +1,45 @@
+
+.ul{
+    width:1200px;
+   
+}
+
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    height:130px;
+    list-style-type: none;
+    border:1px solid black;
+    text-align: center;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.list:hover{
+    box-shadow: 5px 5px black;
+}
+img{
+    width: 80px;
+    height:80px;
+    border-radius:70px;
+    padding: 5px;
+}
+
+.v{
+    font-size: small;
+    font-weight: 600;
+}
+.r{
+background-color:green;
+color:white;
+width:50px;
+border-radius:5px;
+margin: 3px;
+}
+
+.rating{
+    padding: 10px;
+}
