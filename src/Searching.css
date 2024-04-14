@@ -1,0 +1,13 @@
+.form input{
+    display: block;
+    margin :10px;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.form button{
+    background-color: blue;
+    color: white;
+    margin-right: 0px;
+}
+
