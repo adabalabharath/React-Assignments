@@ -1,0 +1,17 @@
+div .all{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  
+}
+
+
+div.single{
+    border:1px solid black;
+    margin: 25px;
+    width: 400px;
+    text-align: center;
+    
+}
+

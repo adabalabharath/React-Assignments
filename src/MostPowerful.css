@@ -1,0 +1,14 @@
+.all{
+
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+    
+}
+
+div.single{
+    border:1px solid black;
+    margin: 25px;
+    width: 400px;
+    
+}

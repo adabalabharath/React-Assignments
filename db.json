@@ -1,0 +1,25 @@
+{
+  "superheroes": [
+    {
+      "id": "51fd",
+      "name": "shazam",
+      "height": "180",
+      "weight": "85",
+      "power": "8"
+    },
+    {
+      "id": "87d2",
+      "name": "Thor",
+      "height": "185",
+      "weight": "120",
+      "power": "8.5"
+    },
+    {
+      "id": "f24b",
+      "name": "Homelander",
+      "height": "180",
+      "weight": "95",
+      "power": "9"
+    }
+  ]
+}
