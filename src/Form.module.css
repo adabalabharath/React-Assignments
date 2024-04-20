@@ -1,0 +1,83 @@
+div .con{
+    width:1200px;
+    display: flex;
+    justify-content: space-between;
+}
+div .container {
+  border: 1px solid black;
+  padding: 20px;
+  width: 500px;
+  height: 410px;
+  /* Float the container to the left */
+}
+
+div .show {
+   /* Float the ShowForm component to the right */
+  
+   
+   width: 500px;
+   height: 410px;
+}
+.names{
+   display: flex;
+   justify-content: space-between;
+   margin: 10px;  
+  
+}
+
+div label{
+    display: block;
+}
+.email{
+    margin: 10px;
+}
+.email input{
+    width: 100%;
+    align-items: center;
+}
+.phn {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+   
+}
+.phn input{
+    width: 150%;
+}
+
+.marriage p{
+    display: inline;
+}
+
+.marriage{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.dob{
+   display: flex;
+   justify-content: space-between;
+    margin: 10px;
+}
+.gender{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.gender p{
+    display: inline;
+}
+
+div button{
+    margin-top: 10px;
+    width: 100%;
+    background-color: green;
+    color: aliceblue;
+}
+
+.dob input{
+width: 15;
+}
+ 
+
