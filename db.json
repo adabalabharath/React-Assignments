@@ -1,0 +1,64 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "task": "Complete project proposal",
+      "status": "Not Started"
+    },
+    {
+      "id": "2",
+      "task": "Research market trends",
+      "status": "In Progress"
+    },
+    {
+      "id": "3",
+      "task": "Prepare presentation slides",
+      "status": "In Progress"
+    },
+    {
+      "id": "4",
+      "task": "Review budget",
+      "status": "Not Started"
+    },
+    {
+      "id": "5",
+      "task": "Meet with team for brainstorming",
+      "status": "Completed"
+    },
+    {
+      "id": "6",
+      "task": "Submit final report",
+      "status": "In Progress"
+    },
+    {
+      "id": "7",
+      "task": "Schedule client meeting",
+      "status": "Not Started"
+    },
+    {
+      "id": "8",
+      "task": "Update project timeline",
+      "status": "Completed"
+    },
+    {
+      "id": "9",
+      "task": "Conduct market research",
+      "status": "Not Started"
+    },
+    {
+      "id": "10",
+      "task": "Review feedback from stakeholders",
+      "status": "Completed"
+    },
+    {
+      "id": "ba35",
+      "task": "watch movie",
+      "status": "In Progress"
+    },
+    {
+      "id": "8ed8",
+      "task": "checkout insta",
+      "status": "Completed"
+    }
+  ]
+}
