@@ -1,0 +1,28 @@
+.tab{
+    border: 1px solid black;
+    
+    
+}
+
+.head th,.body td{
+    border:1px solid black ;
+}
+
+.head th{
+    width:200px;
+    text-align: center;
+}
+
+.body{
+    text-align: center;
+}
+
+.body button{
+    width: 50%;
+}
+
+.bookings h3{
+    
+margin-left: 85%;
+    
+}

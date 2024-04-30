@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px dotted black;
+    width:600px
+    
+}
+
+.nam {
+  
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+}
+
+.rate {
+  font-size: 14px;
+  color: chocolate;
+
+ 
+}
+
+.card {
+ width: 200px;
+
+border-radius: 5px;
+ margin: 20px;  
+  
+}
+.bike{
+    font-size: 15px;
+    color:darkblue;
+  
+}
+
+.available{
+  font-size: 14px;
+  
+ 
+  
+}
+
+.details{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+   
+}
+
+.details input{
+    margin-bottom: 10px;
+}
+
+.comp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    
+}

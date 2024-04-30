@@ -1,0 +1,83 @@
+ .nav h3{
+    color:floralwhite;
+    margin: 0%;
+}
+div{
+  width: 1440px; 
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+    padding: 0%;
+    color: blueviolet;
+  
+}
+
+.number {
+  font-size: 14px;
+  margin: 5px;
+ 
+}
+
+.container{
+    width: 200px;
+    margin: 10px;
+   
+}
+.card {
+ 
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+   
+  
+}
+
+.card:hover{
+ box-shadow: 3px 3px black;
+ 
+}
+
+
+.nam {
+  
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+}
+
+.rate {
+  font-size: 14px;
+  color: chocolate;
+
+ 
+}
+
+
+.bike{
+    font-size: 15px;
+    color:darkblue;
+  
+}
+
+.available{
+  font-size: 14px;
+  margin: 5px;
+ 
+  
+}
+
+button {
+  width: 100%;
+}
+
+.card h3{
+    display: block;
+}
+
+
+.nav{
+  background-color: crimson;
+}

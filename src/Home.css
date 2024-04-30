@@ -1,0 +1,20 @@
+.bike{
+    display: flex;
+    
+    flex-wrap: wrap; /* Ensures the bike cards wrap to the next line if they overflow */
+  
+    justify-content: space-evenly;
+    
+    background-color: white;
+   
+}
+
+.bike-card {
+ 
+  width: 300px;
+  height: 300px; /* Adjust the width as needed */
+  margin-bottom: 20px; /* Add margin between the cards */
+}
+
+
+
