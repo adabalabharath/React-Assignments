@@ -1,0 +1,82 @@
+{
+   "user":[ {
+        "id": 1,
+        "firstname": "John",
+        "lastname": "Doe",
+        "email": "john.doe@example.com",
+        "date_joined": "2023-01-15",
+        "department": "Engineering"
+    },
+    {
+        "id": 2,
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "email": "jane.smith@example.com",
+        "date_joined": "2022-11-23",
+        "department": "Marketing"
+    },
+    {
+        "id": 3,
+        "firstname": "Alice",
+        "lastname": "Johnson",
+        "email": "alice.johnson@example.com",
+        "date_joined": "2021-06-30",
+        "department": "Human Resources"
+    },
+    {
+        "id": 4,
+        "firstname": "Bob",
+        "lastname": "Brown",
+        "email": "bob.brown@example.com",
+        "date_joined": "2023-02-10",
+        "department": "Engineering"
+    },
+    {
+        "id": 5,
+        "firstname": "Carol",
+        "lastname": "Davis",
+        "email": "carol.davis@example.com",
+        "date_joined": "2022-05-14",
+        "department": "Finance"
+    },
+    {
+        "id": 6,
+        "firstname": "David",
+        "lastname": "Miller",
+        "email": "david.miller@example.com",
+        "date_joined": "2021-12-20",
+        "department": "Engineering"
+    },
+    {
+        "id": 7,
+        "firstname": "Eve",
+        "lastname": "Wilson",
+        "email": "eve.wilson@example.com",
+        "date_joined": "2023-03-05",
+        "department": "Marketing"
+    },
+    {
+        "id": 8,
+        "firstname": "Frank",
+        "lastname": "Moore",
+        "email": "frank.moore@example.com",
+        "date_joined": "2020-09-18",
+        "department": "Sales"
+    },
+    {
+        "id": 9,
+        "firstname": "Grace",
+        "lastname": "Taylor",
+        "email": "grace.taylor@example.com",
+        "date_joined": "2023-04-22",
+        "department": "Customer Support"
+    },
+    {
+        "id": 10,
+        "firstname": "Henry",
+        "lastname": "Anderson",
+        "email": "henry.anderson@example.com",
+        "date_joined": "2022-08-07",
+        "department": "Legal"
+    }]
+}
